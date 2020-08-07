@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596815661 source:c:\users\admin\documents\c++\vocabulary_english\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+

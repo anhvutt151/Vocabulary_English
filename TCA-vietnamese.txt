@@ -1,0 +1,84 @@
+(n) du an
+(n) thu ky
+(n) chien luoc
+(v) co ve, duong nhu
+(n) bai thuyet trinh
+(n) hieu truong, chu tinh, tong thong
+(v) kiem tra, xem xet
+(v) danh gia cao
+(v) cap
+(v) quet
+(v) do
+(n,v) chong dong = stack
+(n) tham
+(v) tu tap
+(v) to chuc
+(v) trung bay
+(n) hang hoa
+(v) len (tau, xe, may bay)
+(v) tua
+(v) xep thanh hang
+(n) hang rao
+(n) leu
+(n) ghe dai
+(v) nam
+(v) di xe
+(n) quay hang, quay thu tien
+(v) danh may
+(v) do xe
+(n) ngan keo
+(v, n) ki, bien hieu
+(n) xe day
+(v) sap xep
+(v) treo
+(n) = painting, tranh
+(v) vay quanh
+(v) cuon
+(n) ro, gio, thung
+(n) nhan dan
+(v) dinh kem
+(n) hoi thao
+(n) khach hang
+(n) mon, do, vat
+(n) de xuat, de nghi
+(n) su chuyen cho
+(n) van de, su phat hanh, so bao
+(n) hop dong
+(v) tham gia
+(v) de cap
+(v) thao luan
+(n) goi do, buu kien
+(n) hoi nghi
+(n) giay moi, loi moi
+(n) nguoi dieu hanh
+(adj) hieu qua
+(n) tru so chinh
+(v) cung cap
+(n) vi tri, chuc vu
+(n) ve, phieu mua hang
+(n) dong nghiep
+(n) su huong dan, phuong huong
+(v) phuc vu
+(v) cam, to chuc
+(n) va li
+(v) treo
+(v) giao, chuyen
+(v) dieu chinh
+(v) gap
+(n) xe tai
+(n) ngan keo
+(n) chinh sach
+(n) tien boi thuong
+(v) can nhac
+(v) hop tac
+(v) phan nan
+(n) ca nhan
+(n) hieu suat, buoi bieu dien
+(v) nang cap
+(v) tang
+(v) dong ghop
+(v) ngan chan
+(v) chap thuan
+(adj) hai long voi
+(adj) hong
+(v) chuyen ve

@@ -7,7 +7,7 @@
 using namespace std;
 
 vector<string> tuVung, giaiNghia ;
-void nhapData(){
+void nhapDataTCADK(){
     ifstream fileTuVung("TCA-english.txt");
     ifstream fileGiaiNghia("TCA-vietnamese.txt");
     if(fileTuVung.is_open()){
@@ -24,7 +24,6 @@ void nhapData(){
             giaiNghia.push_back(word);
         }
     }
-
 }
 
 int choseIndexWord(){
@@ -89,6 +88,7 @@ void Screen(){
 
 int main()
 {
-    nhapData();
+    nhapDataTCADK();
     Screen();
+    return 0;
 }

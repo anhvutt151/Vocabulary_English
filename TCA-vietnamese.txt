@@ -82,3 +82,53 @@
 (adj) hai long voi
 (adj) hong
 (v) chuyen ve
+(v) cung cap
+(v) khach moi
+(n) su thanh cong
+(v) giai quyet van de
+(v) tham gia
+(n) cuoc hen
+(v) xin viec
+(v) chuyen tien
+(v) thuc day doanh so
+(v) thong bao dieu gi do
+(v) hoan thanh du an
+(v) rat khuyen nghi
+(n) quang cao
+(n) bao
+(v) quyet dinh
+(n) giam doc
+(n) ban giam doc
+(n) so tay chi dan
+(n) de xuat, de nghi
+(n) ngoai le
+(n) nguoi nop don xin viec, ung vien
+(n) he thong
+(adj) thuan tien
+(n) hanh lang
+(n) thong bao noi bo
+(n) hang hang khong
+(adj) bi mat, thieu, vang mat
+(v) nem
+(n) cai can
+(v) chao hoi
+(v) phan phat
+(v) goi
+(v) cam dien
+(v) cuon
+(n) cai goi
+(n) nga tu duong
+(n) tu
+(n) thung chua
+(adj) du dieu kien
+(v) thong bao
+(n) nang cap
+(v) thue
+(adj) giau kinh nghiem
+(v) yeu cau
+(n) tinh hinh
+(n) linh vuc
+(n) cong truong xay dung
+(v) duoc chong dong len
+(n) moi quan tam, lo lang
+(n) su cham tre

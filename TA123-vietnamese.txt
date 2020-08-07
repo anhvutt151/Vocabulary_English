@@ -1,0 +1,17 @@
+(n) mat troi
+(adj) troi nang
+(n) dam may
+(n) mua
+(adj) mua nhieu
+(n) tuyet
+(n) mua tuyet
+(n) bao
+(adj) giong bao
+(n) set
+(n) sam
+(n) mua da
+(n) gio
+(n) suong mu
+(adj) bang gia, lanh gia
+(n) cau vong
+(adj) lanh

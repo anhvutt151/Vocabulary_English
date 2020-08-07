@@ -1,0 +1,17 @@
+sun
+sunny
+cloud
+rain
+rainy
+snow
+sleet
+storm
+stormy
+lightning
+thunder
+hail
+wind
+fog
+icy
+rainbow
+cold

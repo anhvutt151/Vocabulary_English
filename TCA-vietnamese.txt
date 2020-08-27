@@ -132,3 +132,78 @@
 (v) duoc chong dong len
 (n) moi quan tam, lo lang
 (n) su cham tre
+(n) nhu cau
+(adj) khong may
+(n) phong ban
+(adj) dac biet
+(adj) dang ke
+(v) dau tu
+(v) phan phat, phan phoi
+(n) chi dao, tien hanh
+(v) giam sat, quan li
+(n) sach quang cao
+(n) khoa hoc
+(n) su hai long
+(v) nop
+(n) chung minh thu
+(n) nhiem vu
+(v) phan cong
+(v) dat  = book ve
+(n) su phan tich
+(v) thanh lap
+(n) tien loi
+(n) nguoi co van
+(v) di toi hop dong
+(n) giai phap
+(n) su hop tac
+(n) van de
+(v) tim hieu, biet duoc
+(n) khao sat
+(n) tro ly
+(v) giai quyet
+(n) giao thong van tai
+(n) to chuc
+(n) tham
+(n) lan can
+(v) thao do
+(n) nguoi di bo
+(n) thang
+(n) nhac cu
+(n) cong cu
+(n) day
+(adj) khong duoc dung
+(v) dinh kem
+(v) dang
+(v) luu tru
+(v) vay quanh
+(v) duoc bay ra
+(v) lon, tang truong
+(v) noi
+(v) tiep can, lai gan
+(n) bong toi
+(n) bai co
+(n) linh vuc
+(n) hanh ly
+(adj) bao ve, che cho
+(v) nghien cuu
+(n) ki su
+(n) loi khuyen
+(v) lay lai, hoi phuc lai
+(n) lich trinh
+(n) phan mem
+(adj) san co
+(prep) nho vao
+(adj) quan tam den
+(v) cho phep
+(adv) dung tien do
+(n) cuoc thi
+(n) su thang chuc
+(n) dich vu dua don
+(n) cong
+(n) = beach
+(adj) dong duc
+(n) loi ra vao
+(v) keo
+(n) binh hoa
+(n) lan can
+(v) danh bong

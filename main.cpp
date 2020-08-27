@@ -4,6 +4,7 @@
 #include<ctime>
 #include<cstdlib>
 #include<fstream>
+
 using namespace std;
 
 vector<string> tuVung, giaiNghia ;
@@ -60,7 +61,7 @@ int choseIndexWord(){
 }
 
 void Screen(){
-
+    int numberWord = 0;
     while(true){
         int index = choseIndexWord() ;
         string word = tuVung[index];
@@ -68,7 +69,7 @@ void Screen(){
         system("cls");
         string vietLaiWord , vietNghia , vietLaiNghia;
         cout << "\t\t\t\tCHAM CHI HOC Tu Vung!\n\n";
-        cout << "\tWord: " << word << endl;;
+        cout << "\tWord: " << word  << "\t\tTu vung thu: " << (++numberWord) << endl;;
         while(true)
         {
             cout << "\n\tViet lai tu lan 1: " ;
@@ -136,7 +137,10 @@ void MenuApp(){
                 break;
             }
             else if(select == '0')
+            {
+                cout << "\n\tTRY HARD!";
                 return;
+            }
             continue;
         }
 
